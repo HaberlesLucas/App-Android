@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TARIFARIO HABERLES</string>
+    <string name="calcular">CALCULAR</string>
+    <string name="ver_3_7_1_developer_lucas_haberles">Ver. 3.7.1 - Developer Lucas Haberles</string>
+    <string name="total_para_chofer_15">TOTAL PARA CHOFER (%15)</string>
+    <string name="total_a_cobrar">TOTAL A COBRAR</string>
+    <string name="costo_por_horas">Costo por Horas</string>
+    <string name="minutos">Minutos</string>
+    <string name="horas">Horas</string>
+    <string name="ingrese_hora_de_finalizaci_n">INGRESE HORA DE FINALIZACIÓN</string>
+    <string name="ingrese_hora_de_comienzo">INGRESE HORA DE COMIENZO</string>
+    <string name="generar_recibo">GENERAR RECIBO</string>
+    <string name="cliente">Cliente</string>
+    <string name="costo_hora">Costo Hora</string>
+    <string name="total_cobrado">Total Cobrado</string>
+    <string name="compartir_recibo">COMPARTIR RECIBO</string>
+</resources>
