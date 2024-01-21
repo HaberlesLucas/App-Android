@@ -7,3 +7,4 @@ Una característica destacada es la capacidad de generar recibos detallados auto
 el cliente, el costo por hora, la cantidad de horas trabajadas y el monto total cobrado. Una vez generado el recibo, la aplicación ofrece la 
 conveniencia de enviarlo directamente a través de WhatsApp, simplificando el proceso administrativo y mejorando la experiencia del usuario. 
 Este proyecto busca ofrecer una solución integral y eficaz para el cálculo de costos y la gestión de clientes en el ámbito de servicios
+![image](https://github.com/HaberlesLucas/App-Android/assets/107375478/ce55f507-55fc-4147-b921-2bf440b0efd3)
