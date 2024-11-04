@@ -6,7 +6,7 @@ un formulario, especificando el costo por hora y el monto total cobrado.
 Una característica destacada es la capacidad de generar recibos detallados automáticamente. Estos recibos incluyen información esencial como la fecha, 
 el cliente, el costo por hora, la cantidad de horas trabajadas y el monto total cobrado. Una vez generado el recibo, la aplicación ofrece la 
 conveniencia de enviarlo directamente a través de WhatsApp, simplificando el proceso administrativo y mejorando la experiencia del usuario. 
-Este proyecto busca ofrecer una solución integral y eficaz para el cálculo de costos y la gestión de clientes en el ámbito de servicios
+Este proyecto busca ofrecer una solución integral y eficaz para el cálculo de costos y la gestión de clientes en el ámbito de servicios 
 
 ![image](https://github.com/HaberlesLucas/App-Android/assets/107375478/0d1d0bbf-5540-45dd-8df3-e14e32f2176f)
 
